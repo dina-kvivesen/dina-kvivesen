@@ -4,7 +4,7 @@
 ##🤝 Get in touch
 I'd love to hear from you!
 
-<a href=”https://www.linkedin.com/in/dina-kvivesen/"><img align=”left” src=”https://raw.githubusercontent.com/dina-kvivesen/dina-kvivesen/main/images/linkedin.png" alt=”dina | LinkedIn” width=”21px”/></a>
+<a href=”[https://www.linkedin.com/in/dina-kvivesen/](https://www.linkedin.com/in/dina-kvivesen-7ab5141b4/)"><img align=”left” src=”https://raw.githubusercontent.com/dina-kvivesen/dina-kvivesen/main/images/linkedin.png" alt=”dina | LinkedIn” width=”21px”/></a>
 
 
 
