@@ -7,7 +7,7 @@ I'd love to hear from you! Find me  me an email:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dina-kvivesen&layout=compact)](https://github.com/dina-kvivesen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dina-kvivesen?theme=jolly&layout=compact)](https://github.com/dina-kvivesen)
 
 
 
