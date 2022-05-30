@@ -1,9 +1,10 @@
 ### Hi there, I'm Dina 👋
 
 
+##🤝 Get in touch
+I'd love to hear from you!
 
-## Get in touch
-I'd love to hear from you! Find me  me an email:
+<a href=”https://www.linkedin.com/in/dina-kvivesen/"><img align=”left” src=”https://raw.githubusercontent.com/dina-kvivesen/dina-kvivesen/main/images/linkedin.png" alt=”dina | LinkedIn” width=”21px”/></a>
 
 
 
