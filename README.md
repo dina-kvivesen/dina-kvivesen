@@ -1,11 +1,11 @@
-### Hi there, I'm Dina 👋
+## Hi there, I'm Dina 👋
 
 
-## Get in touch 🤝
+### Get in touch 🤝
 I'd love to hear from you!
 
 - <a href="https://www.linkedin.com/in/dina-kvivesen-7ab5141b4/"><img align="left" src="https://raw.githubusercontent.com/dina-kvivesen/dina-kvivesen/main/images/linkedin.png" alt="Dina | LinkedIn" width="21px"/></a>
-- <a href="https://www.linkedin.com/in/dina-kvivesen-7ab5141b4/"><img align="left" src="https://raw.githubusercontent.com/dina-kvivesen/dina-kvivesen/main/images/linkedin.png" alt="Dina | LinkedIn" width="21px"/></a>
+- <a href="https://www.linkedin.com/in/dina-kvivesen-7ab5141b4/"><img align="left" src="https://raw.githubusercontent.com/dina-kvivesen/dina-kvivesen/main/images/linkedin.png" alt="Dina | LinkedIn" width="21px"/></a> [Email](dina.kvivesen@hotmail.com)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dina-kvivesen&layout=compact)](https://github.com/dina-kvivesen)
