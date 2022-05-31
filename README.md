@@ -7,7 +7,7 @@ I'd love to hear from you!
 
 
 [![Dina's GitHub stats](https://github-readme-stats.vercel.app/api?username=dina-kvivesen&theme=omni)](https://github.com/dina-kvivesen/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dina-kvivesen&layout=compact&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dina-kvivesen&layout=compact&theme=omni" />
 
 
 
