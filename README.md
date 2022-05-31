@@ -9,7 +9,8 @@ I'd love to hear from you!
 
 [![Dina's GitHub stats](https://github-readme-stats.vercel.app/api?username=dina-kvivesen&theme=omni)](https://github.com/dina-kvivesen/github-readme-stats)
 
-
+### Design
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
 <!--
