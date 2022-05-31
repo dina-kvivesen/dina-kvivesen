@@ -8,6 +8,8 @@ I'd love to hear from you!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dina-kvivesen&layout=compact)](https://github.com/dina-kvivesen)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dina-kvivesen&theme=jolly" />
+
 
 
 
