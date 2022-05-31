@@ -1,5 +1,5 @@
 ## Hi there, I'm Dina 👋
-
+# a junior front-end developer
 
 ### Get in touch 🤝
 I'd love to hear from you!
