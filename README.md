@@ -8,6 +8,7 @@ I'd love to hear from you!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dina-kvivesen&layout=compact)](https://github.com/dina-kvivesen)
 ![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=appveyor<>&logoColor=blue)
+![]([https://img.shields.io/badge/Code-React-informational?style=plastic&logo=appveyor<>&logoColor=blue](https://img.shields.io/static/v1?label=<code>&message=<react>&color=<blueviolet>))
 https://img.shields.io/static/v1?label=<code>&message=<react>&color=<blueviolet>
 
 
